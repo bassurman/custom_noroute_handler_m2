@@ -1,0 +1,12 @@
+{
+    "name": "gringomu/custom_noroute_handler",
+    "description": "Custom noroute example module",
+    "type": "project",
+    "authors": [
+        {
+            "name": "alex",
+            "email": "a.grigorenko.belvg@gmail.com"
+        }
+    ],
+    "require": {}
+}
